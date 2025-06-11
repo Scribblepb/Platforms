@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "baseUrl": "../..",
+    "paths": {
+      "@org/*": ["packages/*/src"]
+    }
+  }
+}
