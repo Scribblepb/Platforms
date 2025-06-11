@@ -1,0 +1,10 @@
+{
+  "name": "fe-infra-platform",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "docs"
+  ]
+}
+
